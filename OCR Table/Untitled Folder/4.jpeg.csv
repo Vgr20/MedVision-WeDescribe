@@ -1,0 +1,23 @@
+TESTS,RESULT,FLAG,UNITS,REFERENCE INTERVAL,LAB
+CBC With Differential/Platelet,,,,,
+WBC,5.7,,x10E3/uL,4.0-10.5,01
+RBC,5.27,,x10E6/uL,4.10-5.60,01
+Hemoglobin,15.4,,g/dl,12.5-17.0,01
+Hematocrit,44.1,,%,36.0-50.0,
+MCV,84,,fL,80-98,01
+MCH,29.2,,pg,27.0-34.0,01
+MCHC,34.9,,g/dl,32.0-36.0,01
+RDW,13.7,,,11.7-15.0,01
+Platelets,268,,x10E3/uL,140-415,01
+Neutrophils,47,,,40-74,01
+Lymphs,46,,,14-46,01
+Monocytes,6,,--,4-13,01
+Eos,1,,,0-7,01
+Basos,0,,,0-3,01
+Neutrophils (Absolute),2.6,,x10E3/uL,1.8-7.8,01
+Lymphs (Absolute),2.6,,x10E3/uL,0.7-4.5,01
+Monocytes (Absolute),0.4,,x10E3/uL,0.1-1.0,01
+Eos (Absolute),0.1,,x10E3/uL,0.0-0.4,01
+Baso (Absolute),0.0,,x10E3/UL,0.0-0.2,01
+Immature Granulocytes,0,,,0-1,01
+Immature Grans (Abs),0.0,,x10E3/uL,0.0-0.1,01

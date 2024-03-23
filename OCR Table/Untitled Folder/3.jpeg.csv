@@ -1,0 +1,23 @@
+Component,Your Value,Standard Range,Units,Flag
+White Blood Cell Count,5.4,4.0 - 11.0,K/UL,
+Red Blood Cell Count,5.20,4.40 - 6.00,M/UL,
+Hemoglobin,16.0,13.5 - 18.0,g/dl,
+Hematocrit,47.2,40.0 - 52.0,%,
+MCV,91,80 - 100,FL,
+MCH,30.8,27.0 - 33.0,pg,
+MCHC,33.9,31.0 - 36.0,g/dL,
+RDW,12.7,<16.4 -,%,
+Platelet Count,149,150 - 400,"K/uL
+:selected:","L
+:unselected:"
+Differential Type,Automated,,,
+Neutrophil %,56,49.0 - 74.0,%,
+Lymphocyte %,23,26.0 - 46.0,%,L
+Monocyte %,1:,2.0 - 12.0,%,H
+Eosinophil %,7,0.0 - 5.0,%,H
+Basophil %,1,0.0 - 2.0,%,
+Abs. Neutrophil,3.1,2.0 - 8.0,K/UL,
+Abs. Lymphocyte,1.2,1.0 - 5.1,K/UL,
+Abs. Monocyte,0.7,0.0 - 0.8,K/ul,
+Abs. Eosinophil,0.4,0.0 - 0.5,K/uL,
+Abs. Basophil,0.0,0.0 - 0.2,K/ul,

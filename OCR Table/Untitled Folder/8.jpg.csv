@@ -1,0 +1,22 @@
+Complete Blood Count ( Feline)
+Test Description,Value(s),Reference Range,Unit(s)
+Hemoglobin,16.3,9.5 - 15,g/dl
+Total RBC,7.49,6-10,x 10^12 /L
+PCV (HCT),33.59,29 - 45,%
+RDWc,17.7,,%
+RBC Indices,,,
+MCV,45,41-54,
+MCH,21.7,13.3 - 17.5,pg
+MCHC,48.4,31-36,g/dl
+Total WBC,11.42,5.5 - 19.5,x 10^3 / L
+Differential Leukocyte Count,,,
+,,,
+Neutrophils,87,35-75,%
+Eosinophils,02,2 - 12,%
+Lymphocyte,10,20 - 55,%
+Monocytes,01,01 - 04,%
+Basophils,00,0.0 - 0.0,%
+Peripheral Blood Smear,,,
+Platelets,232000,300000 - 800000,/ L
+PDW,43,,%
+MPV,12.2,,
